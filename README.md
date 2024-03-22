@@ -1,2 +1,2 @@
 # DeepHoleTemperatureMeasurement
-DeepHoleTemperatureMeasurement
+深孔测温装置实时监测APP
